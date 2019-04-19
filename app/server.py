@@ -7,7 +7,7 @@ from io import BytesIO
 from fastai.vision import *
 import base64
 
-model_file_url = 'https://drive.google.com/file/d/1-64flEcnTkEtgnknegG1is9nrpWUsS2U/view?usp=sharing'
+model_file_url = 'https://www.dropbox.com/s/92wgwdlz1dh463k/stage-2-resnet50-20000.pth?raw=1'
 model_file_name = 'model'
 classes = ['Coats', 'Dresses', 'Jeans', 'Shoes', 'Shorts', 'Skirts', 'Tops']
 
